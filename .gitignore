@@ -16,3 +16,14 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+
+# Never publish: maps koi ids back to generator seeds
+seeds-private.tsv
+
+# PNG frames the exporter keeps if ffmpeg was missing
+*-frames/
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
