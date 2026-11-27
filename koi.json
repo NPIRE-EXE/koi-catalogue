@@ -1,5 +1,5 @@
 {
-    "generated": "2026-11-23",
+    "generated": "2026-11-27",
     "count": 1038,
     "options": {
         "variety": [
@@ -1715,8 +1715,8 @@
         },
         {
             "id": "k0124",
-            "name": "Ginrin Hariwake",
-            "variety": "Hariwake",
+            "name": "Ginrin Sakura Ogon",
+            "variety": "Kohaku",
             "mutations": [
                 "Metallic",
                 "Ginrin"
@@ -3585,8 +3585,8 @@
         },
         {
             "id": "k0257",
-            "name": "Butterfly Hariwake",
-            "variety": "Hariwake",
+            "name": "Butterfly Sakura Ogon",
+            "variety": "Kohaku",
             "mutations": [
                 "Metallic",
                 "Butterfly"
@@ -6530,8 +6530,8 @@
         },
         {
             "id": "k0463",
-            "name": "Ginrin Butterfly Hariwake",
-            "variety": "Hariwake",
+            "name": "Ginrin Butterfly Sakura Ogon",
+            "variety": "Kohaku",
             "mutations": [
                 "Metallic",
                 "Butterfly",
@@ -7975,8 +7975,8 @@
         },
         {
             "id": "k0561",
-            "name": "Ginrin Butterfly Hariwake",
-            "variety": "Hariwake",
+            "name": "Ginrin Butterfly Sakura Ogon",
+            "variety": "Kohaku",
             "mutations": [
                 "Metallic",
                 "Butterfly",
@@ -10088,8 +10088,8 @@
         },
         {
             "id": "k0705",
-            "name": "Ginrin Butterfly Hariwake",
-            "variety": "Hariwake",
+            "name": "Ginrin Butterfly Sakura Ogon",
+            "variety": "Kohaku",
             "mutations": [
                 "Metallic",
                 "Butterfly",
